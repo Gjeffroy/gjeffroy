@@ -4,14 +4,14 @@
 
 
 # Table of Contents
-1. [LLM: summarise Scientifique articles](LLM)
-2. [Augmented reality with Threejs](Augmented reality)
-3. [A textbook exercise on predicting breast cancer](ML)
+1. [LLM summarise Scientifique articles](llm-summarise-scientifique-articles)
+2. [Augmented reality with Three.js](augmented-reality-with-threejs)
+3. [A textbook exercise on predicting breast cancer](a-textbook-exercise-on-predicting-breast-cancer)
 
-## LLM: summarise Scientifique articles
+## LLM summarise Scientifique articles
 Implementation of Mistral 7B with LangChain and Transformer running on Colab [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
-## Augmented reality with Threejs
+## Augmented reality with Three.js
 A basic implementation of Three.js in Python App with Flask, Gunicorn and SQL Alchemy [🔗](https://github.com/Gjeffroy/AR_with_threejs)
 
 ## A textbook exercise on predicting breast cancer
