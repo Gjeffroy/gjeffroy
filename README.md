@@ -5,7 +5,7 @@
 
 # Table of Contents
 1. [LLM: summarise Scientifique articles](LLM)
-2. [Augmented reality with Three.js](Augmented reality)
+2. [Augmented reality with Three\.js](Augmented reality)
 3. [A textbook exercise on predicting breast cancer](ML)
 
 ## LLM: summarise Scientifique articles
