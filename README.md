@@ -6,7 +6,9 @@ Full stack datascienst
 <hr style="border:2px solid gray">
 
 # Portfolio Contents
+
 <hr style="border:0.5px solid gray">
+
 1. [LLM summarise Scientifique articles](#llm-summarise-scientifique-articles)
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
