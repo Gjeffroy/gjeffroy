@@ -4,13 +4,15 @@
 
 
 # Table of Contents
-1. [Example](#example)
+1. [LLM](#example)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
-## Example
+## LLM: summarise Scientifique articles
+An on premise implementation of Mistral 7B with LangChain and Transformer [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
+
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
