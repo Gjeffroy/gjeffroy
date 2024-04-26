@@ -4,10 +4,9 @@
 
 
 # Table of Contents
-1. [LLM](#example)
-2. [Augmented reality](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. [LLM](#LLM: summarise Scientifique articles)
+2. [Augmented reality](# Augmented reality with Three.js)
+3. [Third Example](# A textbook exercise on predicting breast cancer)
 
 
 ## LLM: summarise Scientifique articles
@@ -16,8 +15,11 @@ Implementation of Mistral 7B with LangChain and Transformer running on Colab [�
 ## Augmented reality with Three.js
 A basic implementation of Three.js in Python App with Flask, Gunicorn and SQL Alchemy [🔗](https://github.com/Gjeffroy/AR_with_threejs)
 
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+## A textbook exercise on predicting breast cancer
+Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in! [🔗](https://github.com/Gjeffroy/breast_cancer_classification)
+
+
+
 
 
 
