@@ -1,5 +1,5 @@
 ### Hi there, I am Guillaume Jeffroy 👋
-Full stack datascienst
+Full-stack Datascientist
 
 <hr style="border:0.5px solid gray">
 
