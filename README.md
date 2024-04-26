@@ -1,7 +1,4 @@
 ### Hi there, I am Guillaume Jeffroy 👋
-Full-stack Datascientist
-
-<hr style="border:0.5px solid gray">
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
 
