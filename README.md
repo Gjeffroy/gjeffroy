@@ -8,9 +8,6 @@ Full-stack Datascientist
 <hr style="border:2px solid gray">
 
 # Portfolio Contents
-
-<hr style="border:0.5px solid gray">
-
 1. [LLM summarise Scientifique articles](#llm-summarise-scientifique-articles)
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
@@ -18,7 +15,7 @@ Full-stack Datascientist
 <hr style="border:2px solid gray">
 
 ## LLM summarise Scientifique articles
-Implementation of Mistral 7B with LangChain and Transformer running on Colab [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
+Unlock the power of Mistral 7B, LangChain, and Transformer on Colab to summarize scientific articles [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
 ## Augmented reality with Three.js
 Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability. [🔗](https://github.com/Gjeffroy/AR_with_threejs)
