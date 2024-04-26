@@ -4,10 +4,9 @@
 
 
 # Table of Contents
-1. [LLM](#LLM: summarise Scientifique articles)
-2. [Augmented reality](# Augmented reality with Three.js)
-3. [Third Example](# A textbook exercise on predicting breast cancer)
-
+1. [LLM: summarise Scientifique articles](LLM)
+2. [Augmented reality with Three.js](Augmented reality)
+3. [A textbook exercise on predicting breast cancer](ML)
 
 ## LLM: summarise Scientifique articles
 Implementation of Mistral 7B with LangChain and Transformer running on Colab [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
