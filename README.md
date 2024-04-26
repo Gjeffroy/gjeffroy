@@ -11,7 +11,7 @@
 
 
 ## LLM: summarise Scientifique articles
-An on premise implementation of Mistral 7B with LangChain and Transformer [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
+Implementation of Mistral 7B with LangChain and Transformer running on Colab [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
 ## Example2
 ## Third Example
