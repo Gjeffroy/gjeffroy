@@ -8,7 +8,7 @@
 1. [LLM summarise Scientifique articles](#llm-summarise-scientifique-articles)
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
-4. [Automated DL with Keras: Architecture & Hyperparameter Tuning](#automated-dl-with-keras-architecture-&-hyperparameter-tuning)
+4. [Automated DL with Keras: Architecture & Hyperparameter Tuning](#automated-dl-with-keras-architecture-hyperparameter-tuning)
 
 <hr style="border:2px solid gray">
 
@@ -21,7 +21,7 @@ Explore a simple integration of Three.js in a Python app powered by Flask, Gunic
 ## A textbook exercise on predicting breast cancer
 Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in! [🔗](https://github.com/Gjeffroy/breast_cancer_classification)
 
-## Automated DL with Keras: Architecture & Hyperparameter Tuning
+## Automated DL with Keras: Architecture Hyperparameter Tuning
 Exploring Keras Tuner's efficacy on the MNIST dataset to optimize neural network architecture for maximizing validation accuracy [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
 
 <hr style="border:2px solid gray">
