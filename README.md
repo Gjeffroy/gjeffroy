@@ -8,7 +8,7 @@
 1. [LLM summarise Scientifique articles](#llm-summarise-scientifique-articles)
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
-4. [Automated DL with Keras: Architecture & Hyperparameter Tuning](#automated-dl-with-keras-architecture-hyperparameter-tuning)
+4. [Automated DL with Keras: Architecture & Hyperparameter Tuning](#automated-dl-with-keras-architecture-&-hyperparameter-tuning)
 
 <hr style="border:2px solid gray">
 
