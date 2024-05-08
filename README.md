@@ -9,6 +9,7 @@
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
 4. [Automated DL with Keras: Architecture & Hyperparameter Tuning](#automated-dl-with-keras-architecture-hyperparameter-and-tuning)
+5. [Shiny App with Leaflet Visualization](#shiny-app-with-leaflet-visualization)
 
 <hr style="border:2px solid gray">
 
@@ -23,6 +24,9 @@ Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compa
 
 ## Automated DL with Keras: Architecture Hyperparameter and Tuning
 Exploring Keras Tuner's efficacy on the MNIST dataset to optimize neural network architecture for maximizing validation accuracy [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
+
+## Shiny App with Leaflet Visualization
+This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view. [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
 
 <hr style="border:2px solid gray">
 
