@@ -14,20 +14,20 @@ Data-enthusiast with Python and R
 
 <hr style="border:2px solid gray">
 
-## LLM summarise Scientifique articles [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
-Unlock the power of Mistral 7B, LangChain, and Transformer on Colab to summarize scientific articles 
+## LLM summarise Scientifique articles 
+Unlock the power of Mistral 7B, LangChain, and Transformer on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
-## Augmented reality with Three.js [🔗](https://github.com/Gjeffroy/AR_with_threejs)
-Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability. 
+## Augmented reality with Three.js 
+Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability.  [🔗](https://github.com/Gjeffroy/AR_with_threejs)
 
-## A textbook exercise on predicting breast cancer [🔗](https://github.com/Gjeffroy/breast_cancer_classification)
-Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in! 
+## A textbook exercise on predicting breast cancer
+Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in!   [🔗](https://github.com/Gjeffroy/breast_cancer_classification)
 
-## Automating DL Tuning with Keras: Architecture & Hyperparameter [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
-Exploring Keras Tuner's efficacy on the MNIST dataset to optimize neural network architecture for maximizing validation accuracy 
+## Automating DL Tuning with Keras: Architecture & Hyperparameter
+Exploring Keras Tuner's efficacy on the MNIST dataset to optimize neural network architecture for maximizing validation accuracy   [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
 
-## Shiny App with Leaflet Visualization [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
-This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view. 
+## Shiny App with Leaflet Visualization 
+This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
 
 <hr style="border:2px solid gray">
 
