@@ -9,7 +9,7 @@ Data-enthusiast with Python and R
 1. [LLM summarise Scientifique articles](#llm-summarise-scientifique-articles)
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
-4. [Automated DL with Keras: Architecture & Hyperparameter Tuning](#automated-dl-with-keras-architecture-hyperparameter-and-tuning)
+4. [Automating DL Tuning with Keras: Architecture & Hyperparameter](#automating-dl-tuning-with-keras-Architecture-and-hyperparameter)
 5. [Shiny App with Leaflet Visualization: Bigfoot tracks and Seagull Settlement](#shiny-app-with-leaflet-visualization)
 
 <hr style="border:2px solid gray">
@@ -23,7 +23,7 @@ Explore a simple integration of Three.js in a Python app powered by Flask, Gunic
 ## A textbook exercise on predicting breast cancer [🔗](https://github.com/Gjeffroy/breast_cancer_classification)
 Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in! 
 
-## Automated DL with Keras: Architecture Hyperparameter and Tuning [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
+## Automating DL Tuning with Keras: Architecture & Hyperparameter [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
 Exploring Keras Tuner's efficacy on the MNIST dataset to optimize neural network architecture for maximizing validation accuracy 
 
 ## Shiny App with Leaflet Visualization [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
