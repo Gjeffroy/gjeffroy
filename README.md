@@ -1,5 +1,5 @@
-### Hi there, I am Guillaume Jeffroy 👋
-
+### Hi there, I am Guillaume 👋
+Data-enthusiast with Python and R
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
 
 <hr style="border:2px solid gray">
