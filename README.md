@@ -9,7 +9,7 @@
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
 4. [Automated DL with Keras: Architecture & Hyperparameter Tuning](#automated-dl-with-keras-architecture-hyperparameter-and-tuning)
-5. [Shiny App with Leaflet Visualization](#shiny-app-with-leaflet-visualization)
+5. [Shiny App with Leaflet Visualization: Bigfoot tracks and Seagull Settlement](#shiny-app-with-leaflet-visualization)
 
 <hr style="border:2px solid gray">
 
