@@ -18,7 +18,8 @@ Data-enthusiast with Python and R
 1. [LangChain for LLM Application Development](#langchain-for-llm-application-development)
 
 <hr style="border:2px solid gray">
-## Projects
+## Projects 
+
 ### LLM summarise Scientifique articles 
 Unlock the power of Mistral 7B, LangChain, and Transformer on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
@@ -39,6 +40,7 @@ To streamline the journey from developing Shiny Apps to production, enter the re
 
 <hr style="border:2px solid gray">
 ## Course Material
+
 ### LangChain for LLM Application Development
 The framework to take LLMs out of the box. Learn to use LangChain to call LLMs into new environments, and use memories, chains, and agents to take on new and complex tasks.  [🔗](https://github.com/Gjeffroy/langchain-for-llm-application-development)
 
