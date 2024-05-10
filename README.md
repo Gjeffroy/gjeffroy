@@ -17,9 +17,9 @@ Data-enthusiast with Python and R
 ## Course Material
 1. [LangChain for LLM Application Development](#langchain-for-llm-application-development)
 
-<hr style="border:2px solid gray">
-## Projects 
+<hr style="border:2px solid gray"> 
 
+## Projects 
 ### LLM summarise Scientifique articles 
 Unlock the power of Mistral 7B, LangChain, and Transformer on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
@@ -39,6 +39,7 @@ This Shiny app enables users to visualize Seagull settlements in Lorient and Big
 To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2."  [🔗]([https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main](https://github.com/Gjeffroy/shiny-production-golem))
 
 <hr style="border:2px solid gray">
+
 ## Course Material
 
 ### LangChain for LLM Application Development
