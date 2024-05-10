@@ -18,28 +18,28 @@ Data-enthusiast with Python and R
 1. [LangChain for LLM Application Development](#langchain-for-llm-application-development)
 
 <hr style="border:2px solid gray">
-
-## LLM summarise Scientifique articles 
+## Projects
+### LLM summarise Scientifique articles 
 Unlock the power of Mistral 7B, LangChain, and Transformer on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
-## Augmented reality with Three.js 
+### Augmented reality with Three.js 
 Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability.  [🔗](https://github.com/Gjeffroy/AR_with_threejs)
 
-## A textbook exercise on predicting breast cancer
+### A textbook exercise on predicting breast cancer
 Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in!   [🔗](https://github.com/Gjeffroy/breast_cancer_classification)
 
-## Automating DL Tuning with Keras: Architecture & Hyperparameter
+### Automating DL Tuning with Keras: Architecture & Hyperparameter
 Exploring Keras Tuner's efficacy on the MNIST dataset to optimize neural network architecture for maximizing validation accuracy   [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
 
-## Shiny App with Leaflet Visualization 
+### Shiny App with Leaflet Visualization 
 This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
 
-## Production Grade Shiny App with Golem
+### Production Grade Shiny App with Golem
 To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2."  [🔗]([https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main](https://github.com/Gjeffroy/shiny-production-golem))
 
 <hr style="border:2px solid gray">
-
-## LangChain for LLM Application Development
+## Course Material
+### LangChain for LLM Application Development
 The framework to take LLMs out of the box. Learn to use LangChain to call LLMs into new environments, and use memories, chains, and agents to take on new and complex tasks.  [🔗](https://github.com/Gjeffroy/langchain-for-llm-application-development)
 
 <hr style="border:2px solid gray">
