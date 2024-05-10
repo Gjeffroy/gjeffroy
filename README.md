@@ -7,7 +7,7 @@ Data-enthusiast with Python and R
 
 # Portfolio Contents
 ## Projects
-1. [LLM summarise Scientifique articles](#llm-summarise-scientifique-articles)
+1. [Summarise Scientifique articles : an on premise LLM implementation](#llm-summarise-scientifique-articles)
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
 4. [Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter](#automating-deep-learning-with-keras-tuner-architecture-and-hyperparameter)
