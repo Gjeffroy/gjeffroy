@@ -11,6 +11,7 @@ Data-enthusiast with Python and R
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
 4. [Automating DL Tuning with Keras: Architecture & Hyperparameter](#automating-dl-tuning-with-keras-Architecture-and-hyperparameter)
 5. [Shiny App with Leaflet Visualization: Bigfoot tracks and Seagull Settlement](#shiny-app-with-leaflet-visualization)
+6. [Production Grade Shiny App with Golem](#production-grade-shiny-app-with-golem)
 
 <hr style="border:2px solid gray">
 
@@ -28,6 +29,9 @@ Exploring Keras Tuner's efficacy on the MNIST dataset to optimize neural network
 
 ## Shiny App with Leaflet Visualization 
 This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
+
+## Production Grade Shiny App with Golem
+To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2."  [🔗]([https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main](https://github.com/Gjeffroy/shiny-production-golem))
 
 <hr style="border:2px solid gray">
 
