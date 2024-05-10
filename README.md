@@ -10,7 +10,7 @@ Data-enthusiast with Python and R
 1. [LLM summarise Scientifique articles](#llm-summarise-scientifique-articles)
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
-4. [Automating DL Tuning with Keras: Architecture & Hyperparameter](#automating-deep-learning-with-keras-tuner-architecture-and-hyperparameter)
+4. [Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter](#automating-deep-learning-with-keras-tuner-architecture-and-hyperparameter)
 5. [Shiny App with Leaflet Visualization: Bigfoot tracks and Seagull Settlement](#shiny-app-with-leaflet-visualization)
 6. [Production Grade Shiny App with Golem](#production-grade-shiny-app-with-golem)
 
