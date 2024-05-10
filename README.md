@@ -6,6 +6,7 @@ Data-enthusiast with Python and R
 <hr style="border:2px solid gray">
 
 # Portfolio Contents
+## Projects
 1. [LLM summarise Scientifique articles](#llm-summarise-scientifique-articles)
 2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
 3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
@@ -13,8 +14,8 @@ Data-enthusiast with Python and R
 5. [Shiny App with Leaflet Visualization: Bigfoot tracks and Seagull Settlement](#shiny-app-with-leaflet-visualization)
 6. [Production Grade Shiny App with Golem](#production-grade-shiny-app-with-golem)
 
-# Course Material
-1.[LangChain for LLM Application Development](#langchain-for-llm-application-development)
+## Course Material
+1. [LangChain for LLM Application Development](#langchain-for-llm-application-development)
 
 <hr style="border:2px solid gray">
 
