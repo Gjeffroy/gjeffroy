@@ -16,6 +16,7 @@ Data-enthusiast with Python and R
 
 ## Course Material
 1. [LangChain for LLM Application Development](#langchain-for-llm-application-development)
+2. [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
 
 <hr style="border:2px solid gray"> 
 
