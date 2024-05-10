@@ -13,6 +13,9 @@ Data-enthusiast with Python and R
 5. [Shiny App with Leaflet Visualization: Bigfoot tracks and Seagull Settlement](#shiny-app-with-leaflet-visualization)
 6. [Production Grade Shiny App with Golem](#production-grade-shiny-app-with-golem)
 
+# Course Material
+1.[LangChain for LLM Application Development](#langchain-for-llm-application-development)
+
 <hr style="border:2px solid gray">
 
 ## LLM summarise Scientifique articles 
@@ -32,6 +35,11 @@ This Shiny app enables users to visualize Seagull settlements in Lorient and Big
 
 ## Production Grade Shiny App with Golem
 To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2."  [🔗]([https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main](https://github.com/Gjeffroy/shiny-production-golem))
+
+<hr style="border:2px solid gray">
+
+## LangChain for LLM Application Development
+The framework to take LLMs out of the box. Learn to use LangChain to call LLMs into new environments, and use memories, chains, and agents to take on new and complex tasks.  [🔗](https://github.com/Gjeffroy/langchain-for-llm-application-development)
 
 <hr style="border:2px solid gray">
 
