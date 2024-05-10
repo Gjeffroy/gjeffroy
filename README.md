@@ -45,6 +45,10 @@ To streamline the journey from developing Shiny Apps to production, enter the re
 ### LangChain for LLM Application Development
 The framework to take LLMs out of the box. Learn to use LangChain to call LLMs into new environments, and use memories, chains, and agents to take on new and complex tasks.  [🔗](https://github.com/Gjeffroy/langchain-for-llm-application-development)
 
+### ChatGPT Prompt Engineering for Developers
+Go beyond the chat box. Use API access to leverage LLMs into your own applications, and learn to build a custom chatbot.  [🔗](https://github.com/Gjeffroy/chatgpt-prompt-engineering-for-developers)
+
+
 <hr style="border:2px solid gray">
 
 <!--
