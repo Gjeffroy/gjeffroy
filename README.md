@@ -31,7 +31,7 @@ Explore a simple integration of Three.js in a Python app powered by Flask, Gunic
 Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in!   [🔗](https://github.com/Gjeffroy/breast_cancer_classification)
 
 ### Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter
-Exploring Keras Tuner's efficacy on the MNIST dataset to optimize neural network architecture for maximizing validation accuracy   [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
+Exploring Keras Tuner's efficacy on the MNIST dataset to optimize CNN architecture for maximizing validation accuracy   [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
 
 ### Spatial Data with Shiny and Leaflet
 This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
