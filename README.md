@@ -7,17 +7,17 @@ Data-enthusiast with Python and R
 
 # Portfolio Contents
 ## Projects
-1. [Summarise Scientifique articles with LLM](#llm-summarise-scientifique-articles)
-2. [Augmented reality with Three.js](#augmented-reality-with-threejs)
-3. [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
-4. [Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter](#automating-deep-learning-with-keras-tuner-architecture-and-hyperparameter)
-5. [Spatial Data with Shiny and Leaflet: Bigfoot tracks and Seagull Settlement](#spatial-data-with-shiny-and-leaflet)
-6. [Production Grade Shiny App with Golem](#production-grade-shiny-app-with-golem)
+* [Summarise Scientifique articles with LLM](#llm-summarise-scientifique-articles)
+* [Augmented reality with Three.js](#augmented-reality-with-threejs)
+* [A textbook exercise on predicting breast cancer](#a-textbook-exercise-on-predicting-breast-cancer)
+* [Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter](#automating-deep-learning-with-keras-tuner-architecture-and-hyperparameter)
+* [Spatial Data with Shiny and Leaflet: Bigfoot tracks and Seagull Settlement](#spatial-data-with-shiny-and-leaflet)
+* [Production Grade Shiny App with Golem](#production-grade-shiny-app-with-golem)
 
 ## Course Material
-1. [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
-2. [LangChain for LLM Application Development](#langchain-for-llm-application-development)
-3. [LangChain: Chat with Your Data](#langchain-chat-with-your-data)
+* [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
+* [LangChain for LLM Application Development](#langchain-for-llm-application-development)
+* [LangChain: Chat with Your Data](#langchain-chat-with-your-data)
 
 <hr style="border:2px solid gray"> 
 
