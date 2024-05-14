@@ -23,8 +23,8 @@ Data-enthusiast with Python and R
 <hr style="border:2px solid gray"> 
 
 ## Projects 
-### LLM summarise Scientifique articles 
-Unlock the power of Mistral 7B, LangChain, and Transformer on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
+### LLM to summarise Scientifique articles 
+Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
 ### Augmented reality with Three.js 
 Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability.  [🔗](https://github.com/Gjeffroy/AR_with_threejs)
