@@ -13,6 +13,7 @@ Data-enthusiast with Python and R
 * [Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter](#automating-deep-learning-with-keras-tuner-architecture-and-hyperparameter)
 * [Spatial Data with Shiny and Leaflet: Bigfoot tracks and Seagull Settlement](#spatial-data-with-shiny-and-leaflet)
 * [Production Grade Shiny App with Golem](#production-grade-shiny-app-with-golem)
+* [Data labeling with Generative AI](#data-labeling-with-generative-ai)
 
 ## Course Material
 * [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
@@ -38,7 +39,10 @@ Exploring Keras Tuner's efficacy on the MNIST dataset to optimize CNN architectu
 This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
 
 ### Production Grade Shiny App with Golem
-To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2."  [🔗]([https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main](https://github.com/Gjeffroy/shiny-production-golem))
+To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2.  [🔗](https://github.com/Gjeffroy/shiny-production-golem)
+
+### Data labeling with Generative AI
+Labeling data with Large Language Models (LLMs) using LangChain and pandas automates and improves the efficiency of annotating datasets. [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main)
 
 <hr style="border:2px solid gray">
 
