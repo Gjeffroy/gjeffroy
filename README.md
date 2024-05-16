@@ -7,7 +7,7 @@ Data-enthusiast with Python and R
 Version française -> [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#contenu-du-portfolio)
 <hr style="border:2px solid gray">
 
-# Portfolio Contents
+# Portfolio Contents 🌏
 ## Projects
 * [Summarise Scientifique articles with LLM](#llm-summarise-scientifique-articles)
 * [Augmented reality with Three.js](#augmented-reality-with-threejs)
@@ -65,7 +65,7 @@ Create a chatbot to interface with your private data and documents using LangCha
 
 
 
-# Contenu du Portfolio
+# Contenu du Portfolio 🇫🇷 🥖🍷🗼
 ## Projets
 * [Résumé des articles scientifiques avec LLM](#llm-resume-des-articles-scientifiques)
 * [Réalité augmentée avec Three.js](#realite-augmentee-avec-threejs)
