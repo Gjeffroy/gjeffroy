@@ -3,7 +3,7 @@ Data-enthusiast with Python and R
 
 🇫🇷 Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#contenu-du-portfolio)
 
-💬 Contact me : [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
 
 <hr style="border:2px solid gray">
 
