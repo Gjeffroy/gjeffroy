@@ -73,7 +73,7 @@ Create a chatbot to interface with your private data and documents using LangCha
 * [Automatisation du Deep Learning avec Keras Tuner : Architecture & Hyperparamètres](#automatisation-du-deep-learning-avec-keras-tuner-architecture-et-hyperparametres)
 * [Données spatiales avec Shiny et Leaflet : Traces de Bigfoot et Colonies de Mouettes](#donnees-spatiales-avec-shiny-et-leaflet)
 * [Application Shiny aux standards de production avec Golem](#application-shiny-aux-standards-de-production-avec-golem)
-* [Labelisation de données par IA générative](#labelisation-de-donnees-par-ia-generativee)
+* [Labelisation de données par IA générative](#labelisation-de-donnees-par-ia-generative)
 
 ## Matériel de Cours
 * [Ingénierie des invites ChatGPT pour les développeurs](#ingenierie-des-invites-chatgpt-pour-les-developpeurs)
