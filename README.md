@@ -1,7 +1,7 @@
 ### Hi there, I am Guillaume 👋
 Data-enthusiast with Python and R
 
-🇫🇷 Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#contenu-du-portfolio)
+Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#contenu-du-portfolio)
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
 
