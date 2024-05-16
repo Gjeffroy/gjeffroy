@@ -72,7 +72,7 @@ Create a chatbot to interface with your private data and documents using LangCha
 * [Exercice pratique sur la prédiction du cancer du sein](#exercice-pratique-sur-la-prediction-du-cancer-du-sein)
 * [Automatisation du Deep Learning avec Keras Tuner : Architecture & Hyperparamètres](#automatisation-du-deep-learning-avec-keras-tuner-architecture-et-hyperparametres)
 * [Données spatiales avec Shiny et Leaflet : Traces de Bigfoot et Colonies de Mouettes](#donnees-spatiales-avec-shiny-et-leaflet)
-* [Application Shiny de qualité professionnelle avec Golem](#application-shiny-de-qualite-professionnelle-avec-golem)
+* [Application Shiny aux standards de production avec Golem](#application-shiny-aux-standards-de-production-avec-golem)
 * [Étiquetage de données avec l'IA générative](#etiquetage-de-donnees-avec-ia-generative)
 
 ## Matériel de Cours
@@ -98,7 +98,7 @@ Explorer l'efficacité de Keras Tuner sur le jeu de données MNIST pour optimise
 ### Données spatiales avec Shiny et Leaflet
 Cette application Shiny permet aux utilisateurs de visualiser les colonies de mouettes à Lorient et les observations de Bigfoot au fil du temps à l'aide d'une animation par curseur. Elle propose également une visualisation par clustering et densité des points de données pour une vue complète de la distribution spatiale.  [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
 
-### Application Shiny de qualité professionnelle avec Golem
+### Application Shiny aux standards de production avec Golem
 Pour rationaliser le parcours du développement d'applications Shiny à la production, entrez dans le monde du package Golem. Dans ce projet, j'explore la création de graphiques et de statistiques basés sur les données à l'aide de Shiny, Golem et Ggplot2.  [🔗](https://github.com/Gjeffroy/shiny-production-golem)
 
 ### Étiquetage de données avec l'IA générative
