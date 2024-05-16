@@ -4,7 +4,7 @@ Data-enthusiast with Python and R
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
 
 
-Version française -> [![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/Gjeffroy/gjeffroy/blob/main/README_fr.md)
+Version française -> [![fr](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/Gjeffroy/gjeffroy/blob/main/README_fr)
 <hr style="border:2px solid gray">
 
 # Portfolio Contents
