@@ -73,7 +73,7 @@ Create a chatbot to interface with your private data and documents using LangCha
 * [Automatisation du Deep Learning avec Keras Tuner : Architecture & Hyperparamètres](#automatisation-du-deep-learning-avec-keras-tuner-architecture-et-hyperparametres)
 * [Données spatiales avec Shiny et Leaflet : Traces de Bigfoot et Colonies de Mouettes](#donnees-spatiales-avec-shiny-et-leaflet)
 * [Application Shiny aux standards de production avec Golem](#application-shiny-aux-standards-de-production-avec-golem)
-* [Labelisation de données par IA générative](#labelisation-de-donnees-par-ia-generative)
+* [Labélisation de données par IA générative](#labelisation-de-donnees-par-ia-generative)
 
 ## Matériel de Cours
 * [Ingénierie des invites ChatGPT pour les développeurs](#ingenierie-des-invites-chatgpt-pour-les-developpeurs)
@@ -101,7 +101,7 @@ Cette application Shiny permet aux utilisateurs de visualiser les colonies de mo
 ### Application Shiny aux standards de production avec Golem
 Pour rationaliser le parcours du développement d'applications Shiny à la production, entrez dans le monde du package Golem. Dans ce projet, j'explore la création de graphiques et de statistiques basés sur les données à l'aide de Shiny, Golem et Ggplot2.  [🔗](https://github.com/Gjeffroy/shiny-production-golem)
 
-### Labelisation de données par IA générative
+### Labélisation de données par IA générative
 L'étiquetage des données avec des modèles de langage de grande taille (LLM) en utilisant LangChain et pandas automatise et améliore l'efficacité de l'annotation des jeux de données. [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main)
 
 <hr style="border:2px solid gray">
