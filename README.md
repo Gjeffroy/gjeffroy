@@ -7,7 +7,7 @@ Data-enthusiast with Python and R
 Version française -> [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#contenu-du-portfolio)
 <hr style="border:2px solid gray">
 
-# Portfolio Contents 🌏
+# Portfolio Contents 📚
 ## Projects
 * [Summarise Scientifique articles with LLM](#llm-summarise-scientifique-articles)
 * [Augmented reality with Three.js](#augmented-reality-with-threejs)
