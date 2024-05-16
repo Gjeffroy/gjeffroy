@@ -65,7 +65,7 @@ Create a chatbot to interface with your private data and documents using LangCha
 
 
 
-# Contenu du Portfolio
+#📚 # Contenu du Portfolio
 ## Projets
 * [Résumé des articles scientifiques avec LLM](#llm-resume-des-articles-scientifiques)
 * [Réalité augmentée avec Three.js](#realite-augmentee-avec-threejs)
