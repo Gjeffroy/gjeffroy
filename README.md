@@ -4,7 +4,7 @@ Data-enthusiast with Python and R
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
 
 
-Version française -> [![fr](https://img.shields.io/badge/lang-fr-red.svg)](bonjour-je-suis-guillaume)
+Version française -> [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#contenu-du-portfolio)
 <hr style="border:2px solid gray">
 
 # Portfolio Contents
@@ -63,12 +63,7 @@ Create a chatbot to interface with your private data and documents using LangCha
 <hr style="border:2px solid gray">
 
 
-### Bonjour, je suis Guillaume 👋
-Passionné de données avec Python et R
 
-[![texte](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
-
-<hr style="border:2px solid gray">
 
 # Contenu du Portfolio
 ## Projets
