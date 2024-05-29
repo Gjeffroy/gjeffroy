@@ -16,8 +16,6 @@ Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#cont
 
 # Portfolio
 
-<hr style="border:2px solid gray"> 
-
 ## Projects 
 ### Web application
 **Spatial Data with Shiny and Leaflet** <br>
