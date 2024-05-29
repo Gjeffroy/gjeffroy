@@ -7,9 +7,10 @@ My key skills include data automation, where I streamline the processing of both
 
 💬 Feel free to contact me to discuss and develop a tailored action plan for your project.
 
-Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#contenu-du-portfolio)
-
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
+
+
+Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#contenu-du-portfolio)
 
 <hr style="border:2px solid gray">
 
