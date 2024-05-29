@@ -16,48 +16,46 @@ Additionally, I build custom web applications, ranging from simple dashboards to
 # Portfolio
 
 ## 📊 Web application 
-[🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main) **Spatial Data with Shiny and Leaflet**  <br> 
+**Spatial Data with Shiny and Leaflet** [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main) <br> 
 A visually appealing Shiny app that presents two datasets: Seagull settlements in Lorient and Bigfoot sightings. The app displays the data on an interactive map with a timeline animation, allowing users to explore changes over time. Additionally, it includes data point clustering and density visualization to provide a thorough understanding of spatial distribution patterns.
 
-[🔗](https://github.com/Gjeffroy/shiny-production-golem)**Production Grade Shiny App with Golem** <br>
+**Production Grade Shiny App with Golem** [🔗](https://github.com/Gjeffroy/shiny-production-golem) <br>
 I am exploring the Golem package for creating production-grade applications. In this project, I focus on crafting a data exploration tool, drawing plots and statistics using Shiny, Golem, and ggplot2, ensuring a robust and scalable solution.
 
 ## 🤖 Generative IA 
-[🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article) **LLM to summarise Scientifique articles**  <br>
+**LLM to summarise Scientifique articles** [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article) <br>
 Example of running LLM model on-premise; Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Colab to summarize scientific articles  
 
- [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main) **Data labeling with Generative AI** <br>
+**Data labeling with Generative AI** [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main) <br>
 Labeling data with Large Language Models (LLMs) using Python, LangChain, and pandas; An interesting process to get statistics out of text data and train lighter models (CNN, LSTM, etc) to perform similar classification tasks at a lower cost.
 
 **Chatbot on personal data**  <br>
 Coming soon
 
 ## 🧠 Machine learning and Deep learning 
-[🔗](https://github.com/Gjeffroy/breast_cancer_classification) **A textbook exercise on predicting breast cancer**  <br>
-Assessing algorithm performance with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. And ask ChatGPT to give its conclusion.   
+**A textbook exercise on predicting breast cancer** [🔗](https://github.com/Gjeffroy/breast_cancer_classification) <br>
+Testing algorithm performances with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. And ask ChatGPT to give its conclusion.   
 
-[🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main) **Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter**  <br>
+**Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter** [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main) <br>
 Exploring Keras Tuner's efficacy on the MNIST dataset to optimize CNN architecture for maximizing validation accuracy   
 
 ## 🎒 Other adventures...
 
-[🔗](https://github.com/Gjeffroy/AR_with_threejs) **Augmented reality with Three.js**  <br>
+**Augmented reality with Three.js** [🔗](https://github.com/Gjeffroy/AR_with_threejs) <br>
 Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability. 
-
-
 
 
 <hr style="border:2px solid gray">
 
 # Course Material
 
-[🔗](https://github.com/Gjeffroy/chatgpt-prompt-engineering-for-developers) **ChatGPT Prompt Engineering for Developers**  <br>
+**ChatGPT Prompt Engineering for Developers** [🔗](https://github.com/Gjeffroy/chatgpt-prompt-engineering-for-developers) <br>
 Go beyond the chat box. Use API access to leverage LLMs into your own applications, and learn to build a custom chatbot.  
 
-[🔗](https://github.com/Gjeffroy/langchain-for-llm-application-development) **LangChain for LLM Application Development** <br>
+**LangChain for LLM Application Development** [🔗](https://github.com/Gjeffroy/langchain-for-llm-application-development) <br>
 The framework to take LLMs out of the box. Learn to use LangChain to call LLMs into new environments, and use memories, chains, and agents to take on new and complex tasks.  
 
-[🔗](https://github.com/Gjeffroy/langchain-chat-with-your-data )**LangChain: Chat with Your Data**  <br>
+**LangChain: Chat with Your Data** [🔗](https://github.com/Gjeffroy/langchain-chat-with-your-data ) <br>
 Create a chatbot to interface with your private data and documents using LangChain.  
 
 
