@@ -24,7 +24,7 @@ To streamline the journey from developing Shiny Apps to production, enter the re
 
 ## 🤖 Generative IA 
 **LLM to summarise Scientifique articles** <br>
-Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
+Example of running LLM model on-premise; Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
 **Data labeling with Generative AI** <br>
 Labeling data with Large Language Models (LLMs) using Python, LangChain, and pandas; An interesting process to get statistics out of text data and train cost-effective models. [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main)
