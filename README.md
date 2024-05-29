@@ -34,7 +34,7 @@ Coming soon
 
 ## 🧠 Machine learning and Deep learning 
 **A textbook exercise on predicting breast cancer** [🔗](https://github.com/Gjeffroy/breast_cancer_classification) <br>
-Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in!   
+Assessing algorithm performance with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. And ask ChatGPT to give its conclusion.   
 
 **Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter** [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main) <br>
 Exploring Keras Tuner's efficacy on the MNIST dataset to optimize CNN architecture for maximizing validation accuracy   
