@@ -50,15 +50,15 @@ Explore a simple integration of Three.js in a Python app powered by Flask, Gunic
 
 <hr style="border:2px solid gray">
 
-## Course Material
+# Course Material
 
-### ChatGPT Prompt Engineering for Developers
+**ChatGPT Prompt Engineering for Developers** <br>
 Go beyond the chat box. Use API access to leverage LLMs into your own applications, and learn to build a custom chatbot.  [🔗](https://github.com/Gjeffroy/chatgpt-prompt-engineering-for-developers)
 
-### LangChain for LLM Application Development
+**LangChain for LLM Application Development** <br>
 The framework to take LLMs out of the box. Learn to use LangChain to call LLMs into new environments, and use memories, chains, and agents to take on new and complex tasks.  [🔗](https://github.com/Gjeffroy/langchain-for-llm-application-development)
 
-### LangChain: Chat with Your Data
+**LangChain: Chat with Your Data** <br>
 Create a chatbot to interface with your private data and documents using LangChain.  [🔗](https://github.com/Gjeffroy/langchain-chat-with-your-data)
 
 
