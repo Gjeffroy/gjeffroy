@@ -5,7 +5,7 @@ With a background in engineering, I bring expertise in developing AI tools and v
 
 My key skills include data automation, where I streamline the processing of both structured data such as tables and dictionaries, as well as unstructured data like text, images, and audio. I also specialize in AI tool development, creating generative AI tools including RAG, chatbots, and fine-tuning models. Additionally, I build custom web applications, ranging from simple dashboards to advanced websites that are aesthetic, user-friendly, and responsive.
 
-Feel free to contact me to discuss and develop a tailored action plan for your project.
+💬 Feel free to contact me to discuss and develop a tailored action plan for your project.
 
 Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#contenu-du-portfolio)
 
