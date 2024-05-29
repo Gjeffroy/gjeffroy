@@ -17,10 +17,10 @@ Additionally, I build custom web applications, ranging from simple dashboards to
 
 ## 📊 Web application 
 **Spatial Data with Shiny and Leaflet** [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main) <br> 
-This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  
+A visually appealing Shiny app that presents two datasets: Seagull settlements in Lorient and Bigfoot sightings. The app displays the data on an interactive map with a timeline animation, allowing users to explore changes over time. Additionally, it includes data point clustering and density visualization to provide a thorough understanding of spatial distribution patterns.
 
 **Production Grade Shiny App with Golem** [🔗](https://github.com/Gjeffroy/shiny-production-golem) <br>
-To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2.  
+I am exploring the Golem package for creating production-grade applications. In this project, I focus on crafting a data exploration tool, drawing plots and statistics using Shiny, Golem, and ggplot2, ensuring a robust and scalable solution.
 
 ## 🤖 Generative IA 
 **LLM to summarise Scientifique articles** [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article) <br>
