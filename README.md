@@ -24,7 +24,7 @@ I am exploring the Golem package for creating production-grade applications. In 
 
 ## 🤖 Generative IA 
 **LLM to summarise Scientifique articles** [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article) <br>
-Example of running LLM model on-premise; Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Colab to summarize scientific articles  
+Here’s an example of running an LLM model on-premise: Unlock the power of Mistral 7B, LangChain, and Transformers (Hugging Face) on Colab to summarize scientific articles. I emphasized prompt engineering techniques to ensure reliable and consistent results.
 
 **Data labeling with Generative AI** [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main) <br>
 Labeling data with Large Language Models (LLMs) using Python, LangChain, and pandas; An interesting process to get statistics out of text data and train lighter models (CNN, LSTM, etc) to perform similar classification tasks at a lower cost.
