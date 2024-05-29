@@ -33,6 +33,7 @@ Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Col
 Labeling data with Large Language Models (LLMs) using Python, LangChain, and pandas; An interesting process to get statistics out of text data and train cost-effective models. [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main)
 
 **Chatbot on personal data** <br>
+Coming soon
 
 ### Machine learning and Deep learning
 **A textbook exercise on predicting breast cancer** <br>
