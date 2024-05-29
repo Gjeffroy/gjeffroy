@@ -16,7 +16,6 @@ Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#cont
 
 # Portfolio
 
-## Projects 
 ### Web application
 **Spatial Data with Shiny and Leaflet** <br>
 This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
