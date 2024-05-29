@@ -27,7 +27,7 @@ I am exploring the Golem package for creating production-grade applications. In 
 Example of running LLM model on-premise; Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Colab to summarize scientific articles  
 
 **Data labeling with Generative AI** [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main) <br>
-Labeling data with Large Language Models (LLMs) using Python, LangChain, and pandas; An interesting process to get statistics out of text data and train cost-effective models. 
+Labeling data with Large Language Models (LLMs) using Python, LangChain, and pandas; An interesting process to get statistics out of text data and train lighter models (CNN, LSTM, etc) to perform similar classification tasks at a lower cost.
 
 **Chatbot on personal data**  <br>
 Coming soon
