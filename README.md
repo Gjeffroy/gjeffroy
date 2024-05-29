@@ -40,7 +40,7 @@ Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compa
 **Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter** <br>
 Exploring Keras Tuner's efficacy on the MNIST dataset to optimize CNN architecture for maximizing validation accuracy   [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
 
-### Others adventures
+### Other adventures...
 
 **Augmented reality with Three.js** <br>
 Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability.  [🔗](https://github.com/Gjeffroy/AR_with_threejs)
