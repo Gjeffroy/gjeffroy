@@ -19,10 +19,10 @@ Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#cont
 
 ## Projects 
 ### Web application
-#### Spatial Data with Shiny and Leaflet
+**Spatial Data with Shiny and Leaflet**
 This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
 
-#### Production Grade Shiny App with Golem
+**Production Grade Shiny App with Golem**
 To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2.  [🔗](https://github.com/Gjeffroy/shiny-production-golem)
 
 ### Generative IA
