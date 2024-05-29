@@ -19,30 +19,30 @@ Additionally, I build custom web applications, ranging from simple dashboards to
 **Spatial Data with Shiny and Leaflet** [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main) <br> 
 This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  
 
-**Production Grade Shiny App with Golem** <br>
-To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2.  [🔗](https://github.com/Gjeffroy/shiny-production-golem)
+**Production Grade Shiny App with Golem** [🔗](https://github.com/Gjeffroy/shiny-production-golem) <br>
+To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2.  
 
 ## 🤖 Generative IA 
-**LLM to summarise Scientifique articles** <br>
-Example of running LLM model on-premise; Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
+**LLM to summarise Scientifique articles** [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article) <br>
+Example of running LLM model on-premise; Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Colab to summarize scientific articles  
 
-**Data labeling with Generative AI** <br>
-Labeling data with Large Language Models (LLMs) using Python, LangChain, and pandas; An interesting process to get statistics out of text data and train cost-effective models. [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main)
+**Data labeling with Generative AI** [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main) <br>
+Labeling data with Large Language Models (LLMs) using Python, LangChain, and pandas; An interesting process to get statistics out of text data and train cost-effective models. 
 
-**Chatbot on personal data** <br>
+**Chatbot on personal data**  <br>
 Coming soon
 
 ## 🧠 Machine learning and Deep learning 
-**A textbook exercise on predicting breast cancer** <br>
-Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in!   [🔗](https://github.com/Gjeffroy/breast_cancer_classification)
+**A textbook exercise on predicting breast cancer** [🔗](https://github.com/Gjeffroy/breast_cancer_classification) <br>
+Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in!   
 
-**Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter** <br>
-Exploring Keras Tuner's efficacy on the MNIST dataset to optimize CNN architecture for maximizing validation accuracy   [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
+**Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter** [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main) <br>
+Exploring Keras Tuner's efficacy on the MNIST dataset to optimize CNN architecture for maximizing validation accuracy   
 
 ## 🎒 Other adventures...
 
-**Augmented reality with Three.js** <br>
-Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability.  [🔗](https://github.com/Gjeffroy/AR_with_threejs)
+**Augmented reality with Three.js** [🔗](https://github.com/Gjeffroy/AR_with_threejs) <br>
+Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability. 
 
 
 
