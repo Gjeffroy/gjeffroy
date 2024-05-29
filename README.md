@@ -16,14 +16,14 @@ Version française : [![fr](https://img.shields.io/badge/lang-fr-red.svg)](#cont
 
 # Portfolio
 
-### Web application
+## Web application
 **Spatial Data with Shiny and Leaflet** <br>
 This Shiny app enables users to visualize Seagull settlements in Lorient and Bigfoot sightings over time using a slider animation. It also features data point clustering and density visualization for a comprehensive spatial distribution view.  [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main)
 
 **Production Grade Shiny App with Golem** <br>
 To streamline the journey from developing Shiny Apps to production, enter the realm of the Golem Package. In this project, I delve into crafting data-driven plots and statistics using Shiny, Golem, and Ggplot2.  [🔗](https://github.com/Gjeffroy/shiny-production-golem)
 
-### Generative IA
+## Generative IA
 **LLM to summarise Scientifique articles** <br>
 Unlock the power of Mistral 7B, LangChain, and Transformer (Hugging Face) on Colab to summarize scientific articles  [🔗](https://github.com/Gjeffroy/Mistral7b_scientific_article)
 
@@ -33,14 +33,14 @@ Labeling data with Large Language Models (LLMs) using Python, LangChain, and pan
 **Chatbot on personal data** <br>
 Coming soon
 
-### Machine learning and Deep learning
+## Machine learning and Deep learning
 **A textbook exercise on predicting breast cancer** <br>
 Explore breast cancer prediction with the Breast Cancer Wisconsin dataset. Compare classifiers, leveraging UMAP for insight. Bonus: ChatGPT shares classifier conclusions. Dive in!   [🔗](https://github.com/Gjeffroy/breast_cancer_classification)
 
 **Automating Deep Learning with Keras Tuner: Architecture & Hyperparameter** <br>
 Exploring Keras Tuner's efficacy on the MNIST dataset to optimize CNN architecture for maximizing validation accuracy   [🔗](https://github.com/Gjeffroy/hyperparam_autotuning_keras/tree/main)
 
-### Other adventures...
+## Other adventures...
 
 **Augmented reality with Three.js** <br>
 Explore a simple integration of Three.js in a Python app powered by Flask, Gunicorn, and SQLAlchemy. Deployed seamlessly with Docker for enhanced flexibility and scalability.  [🔗](https://github.com/Gjeffroy/AR_with_threejs)
