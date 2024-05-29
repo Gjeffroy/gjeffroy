@@ -1,9 +1,9 @@
 ### Hi there, I am Guillaume 👋
 <em>Data-enthusiast with Python and R</em>
 
-With a background in engineering, I bring expertise in developing AI tools and visualization solutions. Whether you're in the planning stages, have a prototype in hand, or need to optimize existing code, I'm here to assist you.
+I bring expertise in developing AI tools and visualization solutions. Whether you're in the planning stages, have a prototype in hand, or need to optimize existing code, I'm here to assist you.
 
-My key skills include data automation, where I streamline the processing of both structured data such as tables and dictionaries, as well as unstructured data like text, images, and audio. I also specialize in AI tool development, creating generative AI tools including RAG, chatbots, and fine-tuning models. Additionally, I build custom web applications, ranging from simple dashboards to advanced websites that are aesthetic, user-friendly, and responsive.
+My key skills include data automation, where I streamline the processing of structured data such as tables and dictionaries, and unstructured data like text, images, and audio. I also specialize in AI tool development, creating generative AI tools including RAG, chatbots, and fine-tuning models. Additionally, I build custom web applications, ranging from simple dashboards to advanced websites that are aesthetic, user-friendly, and responsive.
 
 💬 Feel free to contact me to discuss and develop a tailored action plan for your project.
 
