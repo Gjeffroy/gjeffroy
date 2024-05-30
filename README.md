@@ -29,8 +29,8 @@ Here’s an example of running an LLM model on-premise: Unlock the power of Mist
 **Data labeling with Generative AI** [🔗](https://github.com/Gjeffroy/labelling_data_with_llm/tree/main) <br>
 Labeling data with Large Language Models (LLMs) using Python, LangChain, and pandas; An interesting process to get statistics out of text data and train lighter models (CNN, LSTM, etc) to perform similar classification tasks at a lower cost.
 
-**Chatbot on personal data**  <br>
-Coming soon
+**Chatbot on personal data**  [🔗](https://github.com/Gjeffroy/chatbot_langchain_taipy/tree/main)<br>
+Development in progress.. A chatbot built in LangChain to question over 600 documents (pdf and HTML) related to the French secondary education curriculum.
 
 ## 🧠 Machine learning and Deep learning 
 **A textbook exercise on predicting breast cancer** [🔗](https://github.com/Gjeffroy/breast_cancer_classification) <br>
