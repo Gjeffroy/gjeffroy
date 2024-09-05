@@ -7,6 +7,7 @@ My key skills include data automation, where I streamline the processing of stru
 I also specialize in AI tool development, creating generative AI tools including RAG, chatbots, and fine-tuning models. 
 Additionally, I build custom web applications, ranging from simple dashboards to advanced websites that are aesthetic, user-friendly, and responsive.
 
+
 💬 Feel free to contact me to discuss your project.
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumejeffroy/)
@@ -14,6 +15,8 @@ Additionally, I build custom web applications, ranging from simple dashboards to
 <hr style="border:2px solid gray">
 
 # Portfolio
+
+<em> The projects showcased below are prototypes and would require further development before being ready for production. </em>
 
 ## 📊 Web application 
 **Spatial Data with Shiny and Leaflet** [🔗](https://github.com/Gjeffroy/leaflet_viewer_shiny/tree/main) <br> 
